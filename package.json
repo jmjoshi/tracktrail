@@ -1,0 +1,24 @@
+{
+  "name": "tracktrail",
+  "version": "1.0.0",
+  "description": "Track a trail to retrace it back",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmjoshi/tracktrail.git"
+  },
+  "keywords": [
+    "track",
+    "trail",
+    "tracktrail"
+  ],
+  "author": "Jayant Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmjoshi/tracktrail/issues"
+  },
+  "homepage": "https://github.com/jmjoshi/tracktrail#readme"
+}

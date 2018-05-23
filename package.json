@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/jmjoshi/tracktrail/issues"
   },
-  "homepage": "https://github.com/jmjoshi/tracktrail#readme"
+  "homepage": "https://github.com/jmjoshi/tracktrail#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
